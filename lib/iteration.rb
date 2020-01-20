@@ -12,6 +12,8 @@ def join_ingredients(src)
   result 
 end
 
+join_ingredients
+
 def find_greater_pair(src)
  s
 end
