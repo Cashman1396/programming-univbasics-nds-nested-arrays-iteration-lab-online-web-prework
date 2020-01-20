@@ -15,7 +15,7 @@ end
 join_ingredients
 
 def find_greater_pair(src)
- s
+ 
 end
 
 def total_even_pairs(src)
